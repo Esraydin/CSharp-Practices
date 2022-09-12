@@ -1,0 +1,15 @@
+C:\Users\aydin\Desktop\.NET\console-program\bin\Debug\net6.0\console-program.exe
+C:\Users\aydin\Desktop\.NET\console-program\bin\Debug\net6.0\console-program.deps.json
+C:\Users\aydin\Desktop\.NET\console-program\bin\Debug\net6.0\console-program.runtimeconfig.json
+C:\Users\aydin\Desktop\.NET\console-program\bin\Debug\net6.0\console-program.dll
+C:\Users\aydin\Desktop\.NET\console-program\bin\Debug\net6.0\console-program.pdb
+C:\Users\aydin\Desktop\.NET\console-program\obj\Debug\net6.0\console-program.csproj.AssemblyReference.cache
+C:\Users\aydin\Desktop\.NET\console-program\obj\Debug\net6.0\console-program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aydin\Desktop\.NET\console-program\obj\Debug\net6.0\console-program.AssemblyInfoInputs.cache
+C:\Users\aydin\Desktop\.NET\console-program\obj\Debug\net6.0\console-program.AssemblyInfo.cs
+C:\Users\aydin\Desktop\.NET\console-program\obj\Debug\net6.0\console-program.csproj.CoreCompileInputs.cache
+C:\Users\aydin\Desktop\.NET\console-program\obj\Debug\net6.0\console-program.dll
+C:\Users\aydin\Desktop\.NET\console-program\obj\Debug\net6.0\refint\console-program.dll
+C:\Users\aydin\Desktop\.NET\console-program\obj\Debug\net6.0\console-program.pdb
+C:\Users\aydin\Desktop\.NET\console-program\obj\Debug\net6.0\console-program.genruntimeconfig.cache
+C:\Users\aydin\Desktop\.NET\console-program\obj\Debug\net6.0\ref\console-program.dll
