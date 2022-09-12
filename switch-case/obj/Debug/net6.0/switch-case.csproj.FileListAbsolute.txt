@@ -1,0 +1,5 @@
+C:\Users\aydin\Desktop\switch-case\obj\Debug\net6.0\switch-case.csproj.AssemblyReference.cache
+C:\Users\aydin\Desktop\switch-case\obj\Debug\net6.0\switch-case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aydin\Desktop\switch-case\obj\Debug\net6.0\switch-case.AssemblyInfoInputs.cache
+C:\Users\aydin\Desktop\switch-case\obj\Debug\net6.0\switch-case.AssemblyInfo.cs
+C:\Users\aydin\Desktop\switch-case\obj\Debug\net6.0\switch-case.csproj.CoreCompileInputs.cache
