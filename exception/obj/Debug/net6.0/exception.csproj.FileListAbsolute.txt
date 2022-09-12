@@ -1,0 +1,15 @@
+C:\Users\aydin\Desktop\exception\bin\Debug\net6.0\exception.exe
+C:\Users\aydin\Desktop\exception\bin\Debug\net6.0\exception.deps.json
+C:\Users\aydin\Desktop\exception\bin\Debug\net6.0\exception.runtimeconfig.json
+C:\Users\aydin\Desktop\exception\bin\Debug\net6.0\exception.dll
+C:\Users\aydin\Desktop\exception\bin\Debug\net6.0\exception.pdb
+C:\Users\aydin\Desktop\exception\obj\Debug\net6.0\exception.csproj.AssemblyReference.cache
+C:\Users\aydin\Desktop\exception\obj\Debug\net6.0\exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aydin\Desktop\exception\obj\Debug\net6.0\exception.AssemblyInfoInputs.cache
+C:\Users\aydin\Desktop\exception\obj\Debug\net6.0\exception.AssemblyInfo.cs
+C:\Users\aydin\Desktop\exception\obj\Debug\net6.0\exception.csproj.CoreCompileInputs.cache
+C:\Users\aydin\Desktop\exception\obj\Debug\net6.0\exception.dll
+C:\Users\aydin\Desktop\exception\obj\Debug\net6.0\refint\exception.dll
+C:\Users\aydin\Desktop\exception\obj\Debug\net6.0\exception.pdb
+C:\Users\aydin\Desktop\exception\obj\Debug\net6.0\exception.genruntimeconfig.cache
+C:\Users\aydin\Desktop\exception\obj\Debug\net6.0\ref\exception.dll
