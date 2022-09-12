@@ -1,0 +1,15 @@
+C:\Users\aydin\Desktop\degiskenler\bin\Debug\net6.0\degiskenler.exe
+C:\Users\aydin\Desktop\degiskenler\bin\Debug\net6.0\degiskenler.deps.json
+C:\Users\aydin\Desktop\degiskenler\bin\Debug\net6.0\degiskenler.runtimeconfig.json
+C:\Users\aydin\Desktop\degiskenler\bin\Debug\net6.0\degiskenler.dll
+C:\Users\aydin\Desktop\degiskenler\bin\Debug\net6.0\degiskenler.pdb
+C:\Users\aydin\Desktop\degiskenler\obj\Debug\net6.0\degiskenler.csproj.AssemblyReference.cache
+C:\Users\aydin\Desktop\degiskenler\obj\Debug\net6.0\degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aydin\Desktop\degiskenler\obj\Debug\net6.0\degiskenler.AssemblyInfoInputs.cache
+C:\Users\aydin\Desktop\degiskenler\obj\Debug\net6.0\degiskenler.AssemblyInfo.cs
+C:\Users\aydin\Desktop\degiskenler\obj\Debug\net6.0\degiskenler.csproj.CoreCompileInputs.cache
+C:\Users\aydin\Desktop\degiskenler\obj\Debug\net6.0\degiskenler.dll
+C:\Users\aydin\Desktop\degiskenler\obj\Debug\net6.0\refint\degiskenler.dll
+C:\Users\aydin\Desktop\degiskenler\obj\Debug\net6.0\degiskenler.pdb
+C:\Users\aydin\Desktop\degiskenler\obj\Debug\net6.0\degiskenler.genruntimeconfig.cache
+C:\Users\aydin\Desktop\degiskenler\obj\Debug\net6.0\ref\degiskenler.dll
