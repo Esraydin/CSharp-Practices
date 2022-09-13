@@ -1,0 +1,15 @@
+C:\Users\aydin\Desktop\diziler1\bin\Debug\net6.0\diziler1.exe
+C:\Users\aydin\Desktop\diziler1\bin\Debug\net6.0\diziler1.deps.json
+C:\Users\aydin\Desktop\diziler1\bin\Debug\net6.0\diziler1.runtimeconfig.json
+C:\Users\aydin\Desktop\diziler1\bin\Debug\net6.0\diziler1.dll
+C:\Users\aydin\Desktop\diziler1\bin\Debug\net6.0\diziler1.pdb
+C:\Users\aydin\Desktop\diziler1\obj\Debug\net6.0\diziler1.csproj.AssemblyReference.cache
+C:\Users\aydin\Desktop\diziler1\obj\Debug\net6.0\diziler1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aydin\Desktop\diziler1\obj\Debug\net6.0\diziler1.AssemblyInfoInputs.cache
+C:\Users\aydin\Desktop\diziler1\obj\Debug\net6.0\diziler1.AssemblyInfo.cs
+C:\Users\aydin\Desktop\diziler1\obj\Debug\net6.0\diziler1.csproj.CoreCompileInputs.cache
+C:\Users\aydin\Desktop\diziler1\obj\Debug\net6.0\diziler1.dll
+C:\Users\aydin\Desktop\diziler1\obj\Debug\net6.0\refint\diziler1.dll
+C:\Users\aydin\Desktop\diziler1\obj\Debug\net6.0\diziler1.pdb
+C:\Users\aydin\Desktop\diziler1\obj\Debug\net6.0\diziler1.genruntimeconfig.cache
+C:\Users\aydin\Desktop\diziler1\obj\Debug\net6.0\ref\diziler1.dll
