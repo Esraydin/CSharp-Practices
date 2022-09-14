@@ -1,0 +1,15 @@
+C:\Users\aydin\Desktop\ArraySınıfı\bin\Debug\net6.0\ArraySınıfı.exe
+C:\Users\aydin\Desktop\ArraySınıfı\bin\Debug\net6.0\ArraySınıfı.deps.json
+C:\Users\aydin\Desktop\ArraySınıfı\bin\Debug\net6.0\ArraySınıfı.runtimeconfig.json
+C:\Users\aydin\Desktop\ArraySınıfı\bin\Debug\net6.0\ArraySınıfı.dll
+C:\Users\aydin\Desktop\ArraySınıfı\bin\Debug\net6.0\ArraySınıfı.pdb
+C:\Users\aydin\Desktop\ArraySınıfı\obj\Debug\net6.0\ArraySınıfı.csproj.AssemblyReference.cache
+C:\Users\aydin\Desktop\ArraySınıfı\obj\Debug\net6.0\ArraySınıfı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aydin\Desktop\ArraySınıfı\obj\Debug\net6.0\ArraySınıfı.AssemblyInfoInputs.cache
+C:\Users\aydin\Desktop\ArraySınıfı\obj\Debug\net6.0\ArraySınıfı.AssemblyInfo.cs
+C:\Users\aydin\Desktop\ArraySınıfı\obj\Debug\net6.0\ArraySınıfı.csproj.CoreCompileInputs.cache
+C:\Users\aydin\Desktop\ArraySınıfı\obj\Debug\net6.0\ArraySınıfı.dll
+C:\Users\aydin\Desktop\ArraySınıfı\obj\Debug\net6.0\refint\ArraySınıfı.dll
+C:\Users\aydin\Desktop\ArraySınıfı\obj\Debug\net6.0\ArraySınıfı.pdb
+C:\Users\aydin\Desktop\ArraySınıfı\obj\Debug\net6.0\ArraySınıfı.genruntimeconfig.cache
+C:\Users\aydin\Desktop\ArraySınıfı\obj\Debug\net6.0\ref\ArraySınıfı.dll
