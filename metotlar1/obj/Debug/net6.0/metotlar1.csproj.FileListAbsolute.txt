@@ -1,0 +1,15 @@
+C:\Users\aydin\Desktop\metotlar1\bin\Debug\net6.0\metotlar1.exe
+C:\Users\aydin\Desktop\metotlar1\bin\Debug\net6.0\metotlar1.deps.json
+C:\Users\aydin\Desktop\metotlar1\bin\Debug\net6.0\metotlar1.runtimeconfig.json
+C:\Users\aydin\Desktop\metotlar1\bin\Debug\net6.0\metotlar1.dll
+C:\Users\aydin\Desktop\metotlar1\bin\Debug\net6.0\metotlar1.pdb
+C:\Users\aydin\Desktop\metotlar1\obj\Debug\net6.0\metotlar1.csproj.AssemblyReference.cache
+C:\Users\aydin\Desktop\metotlar1\obj\Debug\net6.0\metotlar1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aydin\Desktop\metotlar1\obj\Debug\net6.0\metotlar1.AssemblyInfoInputs.cache
+C:\Users\aydin\Desktop\metotlar1\obj\Debug\net6.0\metotlar1.AssemblyInfo.cs
+C:\Users\aydin\Desktop\metotlar1\obj\Debug\net6.0\metotlar1.csproj.CoreCompileInputs.cache
+C:\Users\aydin\Desktop\metotlar1\obj\Debug\net6.0\metotlar1.dll
+C:\Users\aydin\Desktop\metotlar1\obj\Debug\net6.0\refint\metotlar1.dll
+C:\Users\aydin\Desktop\metotlar1\obj\Debug\net6.0\metotlar1.pdb
+C:\Users\aydin\Desktop\metotlar1\obj\Debug\net6.0\metotlar1.genruntimeconfig.cache
+C:\Users\aydin\Desktop\metotlar1\obj\Debug\net6.0\ref\metotlar1.dll
