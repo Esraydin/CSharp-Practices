@@ -1,0 +1,15 @@
+C:\Users\aydin\Desktop\overloading\bin\Debug\net6.0\overloading.exe
+C:\Users\aydin\Desktop\overloading\bin\Debug\net6.0\overloading.deps.json
+C:\Users\aydin\Desktop\overloading\bin\Debug\net6.0\overloading.runtimeconfig.json
+C:\Users\aydin\Desktop\overloading\bin\Debug\net6.0\overloading.dll
+C:\Users\aydin\Desktop\overloading\bin\Debug\net6.0\overloading.pdb
+C:\Users\aydin\Desktop\overloading\obj\Debug\net6.0\overloading.csproj.AssemblyReference.cache
+C:\Users\aydin\Desktop\overloading\obj\Debug\net6.0\overloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aydin\Desktop\overloading\obj\Debug\net6.0\overloading.AssemblyInfoInputs.cache
+C:\Users\aydin\Desktop\overloading\obj\Debug\net6.0\overloading.AssemblyInfo.cs
+C:\Users\aydin\Desktop\overloading\obj\Debug\net6.0\overloading.csproj.CoreCompileInputs.cache
+C:\Users\aydin\Desktop\overloading\obj\Debug\net6.0\overloading.dll
+C:\Users\aydin\Desktop\overloading\obj\Debug\net6.0\refint\overloading.dll
+C:\Users\aydin\Desktop\overloading\obj\Debug\net6.0\overloading.pdb
+C:\Users\aydin\Desktop\overloading\obj\Debug\net6.0\overloading.genruntimeconfig.cache
+C:\Users\aydin\Desktop\overloading\obj\Debug\net6.0\ref\overloading.dll
