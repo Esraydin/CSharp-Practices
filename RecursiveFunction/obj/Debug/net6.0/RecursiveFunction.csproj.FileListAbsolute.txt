@@ -1,0 +1,15 @@
+C:\Users\aydin\Desktop\RecursiveFunction\bin\Debug\net6.0\RecursiveFunction.exe
+C:\Users\aydin\Desktop\RecursiveFunction\bin\Debug\net6.0\RecursiveFunction.deps.json
+C:\Users\aydin\Desktop\RecursiveFunction\bin\Debug\net6.0\RecursiveFunction.runtimeconfig.json
+C:\Users\aydin\Desktop\RecursiveFunction\bin\Debug\net6.0\RecursiveFunction.dll
+C:\Users\aydin\Desktop\RecursiveFunction\bin\Debug\net6.0\RecursiveFunction.pdb
+C:\Users\aydin\Desktop\RecursiveFunction\obj\Debug\net6.0\RecursiveFunction.csproj.AssemblyReference.cache
+C:\Users\aydin\Desktop\RecursiveFunction\obj\Debug\net6.0\RecursiveFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aydin\Desktop\RecursiveFunction\obj\Debug\net6.0\RecursiveFunction.AssemblyInfoInputs.cache
+C:\Users\aydin\Desktop\RecursiveFunction\obj\Debug\net6.0\RecursiveFunction.AssemblyInfo.cs
+C:\Users\aydin\Desktop\RecursiveFunction\obj\Debug\net6.0\RecursiveFunction.csproj.CoreCompileInputs.cache
+C:\Users\aydin\Desktop\RecursiveFunction\obj\Debug\net6.0\RecursiveFunction.dll
+C:\Users\aydin\Desktop\RecursiveFunction\obj\Debug\net6.0\refint\RecursiveFunction.dll
+C:\Users\aydin\Desktop\RecursiveFunction\obj\Debug\net6.0\RecursiveFunction.pdb
+C:\Users\aydin\Desktop\RecursiveFunction\obj\Debug\net6.0\RecursiveFunction.genruntimeconfig.cache
+C:\Users\aydin\Desktop\RecursiveFunction\obj\Debug\net6.0\ref\RecursiveFunction.dll
