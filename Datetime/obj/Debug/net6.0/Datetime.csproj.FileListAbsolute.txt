@@ -1,0 +1,15 @@
+C:\Users\aydin\Desktop\Datetime\bin\Debug\net6.0\Datetime.exe
+C:\Users\aydin\Desktop\Datetime\bin\Debug\net6.0\Datetime.deps.json
+C:\Users\aydin\Desktop\Datetime\bin\Debug\net6.0\Datetime.runtimeconfig.json
+C:\Users\aydin\Desktop\Datetime\bin\Debug\net6.0\Datetime.dll
+C:\Users\aydin\Desktop\Datetime\bin\Debug\net6.0\Datetime.pdb
+C:\Users\aydin\Desktop\Datetime\obj\Debug\net6.0\Datetime.csproj.AssemblyReference.cache
+C:\Users\aydin\Desktop\Datetime\obj\Debug\net6.0\Datetime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aydin\Desktop\Datetime\obj\Debug\net6.0\Datetime.AssemblyInfoInputs.cache
+C:\Users\aydin\Desktop\Datetime\obj\Debug\net6.0\Datetime.AssemblyInfo.cs
+C:\Users\aydin\Desktop\Datetime\obj\Debug\net6.0\Datetime.csproj.CoreCompileInputs.cache
+C:\Users\aydin\Desktop\Datetime\obj\Debug\net6.0\Datetime.dll
+C:\Users\aydin\Desktop\Datetime\obj\Debug\net6.0\refint\Datetime.dll
+C:\Users\aydin\Desktop\Datetime\obj\Debug\net6.0\Datetime.pdb
+C:\Users\aydin\Desktop\Datetime\obj\Debug\net6.0\Datetime.genruntimeconfig.cache
+C:\Users\aydin\Desktop\Datetime\obj\Debug\net6.0\ref\Datetime.dll
